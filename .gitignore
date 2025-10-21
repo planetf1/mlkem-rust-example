@@ -1,0 +1,25 @@
+# Rust build
+target/
+
+# macOS
+.DS_Store
+
+# Editors/IDEs
+.idea/
+.vscode/
+
+# Rust/Cargo
+**/*.rs.bk
+# Rust build artifacts
+/target/
+
+# Backup files
+**/*.rs.bk
+
+# macOS
+.DS_Store
+
+# IDE/editor
+.vscode/
+*.code-workspace
+.idea/
